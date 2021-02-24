@@ -1,0 +1,48 @@
+{
+    "content": null,
+    "embeds": [
+        {
+            "title": "▬▬▬  :no_entry_sign:  __**Rules that will lead to a ban:**__  :no_entry_sign:  ▬▬▬",
+            "description": "⠀",
+            "color": 15746887,
+            "fields": [
+                {
+                    "name": "⠀  `I` **- __You may not send child porn in any way.__**",
+                    "value": "⠀\n*This includes sharing content or links which depict minors in a pornographic, sexually suggestive, or in a violent manner, and includes illustrated or digitally altered pornography that depicts minors (such as lolicon, shotacon, or cub).*\n\n⠀"
+                },
+                {
+                    "name": "⠀  `II` **- __Do not share content that glorifies or promotes suicide or self-harm.__**",
+                    "value": "⠀\n*Including any encouragement to others to cut themselves, or embrace eating disorders such as anorexia or bulimia.*\n\n⠀"
+                },
+                {
+                    "name": "⠀  `III` **- __Do not send malware or viruses in this server.__**",
+                    "value": "⠀\n*This includes trojan horses, worms, time bombs, cancelbots, corrupted files or data, or any other similar software or programs or engage in any other activity that may damage the operation of the Service or other users' computers.*\n\n⠀"
+                },
+                {
+                    "name": "⠀  `IV` **- __Do not be a nuisance or cause any distress whatsoever.__**",
+                    "value": "⠀\n*This includes defaming, libeling, ridiculing, mocking, stalking, threatening, intimidating or abusing anyone if you are causing an inconvenience to our members and harming the community.*\n\n⠀"
+                },
+                {
+                    "name": "⠀  `V` **- __Do not participate or organize in coordinated raids aimed at a server.__**",
+                "value": "⠀\n*It is against Discord's ToS to raid servers. All members participated will be banned immediately if the moderators have evidence of members participating in raids whether it's in our server or a different server.*\n\n⠀"
+                },
+                {
+                    "name": "⠀  `VI` **- __Do not make threats of violence or threaten to harm others.__**",
+                    "value": "⠀\n*This includes indirect threats, as well as sharing or threatening to share someone’s private personal information (also known as doxxing).*\n\n⠀"
+                },
+                {
+                    "name": "⠀  `VII` **- __You may not share images of sadistic gore or animal cruelty.__**",
+                    "value": "⠀\n*This one is obvious, do not send media content that classifies as gore or sadistic in nature.*\n\n⠀"
+                },
+                {
+                    "name": "⠀  `VIII` **- __You may not Invite alt accounts you own.__**",
+                    "value": "⠀\n*We will ban both the main and alt account(s) if we find out you are joining with an alt without our knowledge or permission.*\n\n⠀"
+                }
+            ]
+        },
+        {
+            "title": "```Scroll up for all the information!```",
+            "color": 7506394
+        }
+    ]
+}

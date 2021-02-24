@@ -1,0 +1,53 @@
+{
+    "content": null,
+    "embeds": [
+        {
+            "title": "▬▬▬  :warning:  __**Rules that will lead to a warn:**__  :warning:  ▬▬▬",
+            "description": "⠀",
+            "color": 16426522,
+            "fields": [
+                {
+                "name": "⠀  `I` **- __Do not organize, participate in, or encourage harassment of others.__**",
+                "value": "⠀\n*Disagreements happen and are normal, but continuous, repetitive, or severe negative comments may cross the line into harassment.*\n\n⠀"
+                },
+                {
+                "name": "⠀  `II` **- __You may not spam in any channels.__**",
+                "value": "⠀\n*If you're spamming for no reason, you will be muted immediately. Useless spam is not tolerated. This includes large copy pastas and ASCII text art. Use pastebins to share large amounts of text if needed.*\n\n⠀"
+                },
+                {
+                "name": "⠀  `III` **- __You may not dm advertise.__**",
+                "value": "⠀\n*Do not post Discord server invites. This includes DM advertising. However, you are allowed to post bot support servers (i.e. MEE6, Unbelievaboat, Dank Memer etc...) if someone is asking or if you want to help that person.*\n\n⠀"
+                },
+                {
+                "name": "⠀  `IV` **- __Do not speak in any other languages except English.__**",
+                "value": "⠀\n*This is because we can't moderate if you are having a conversation in a different language the moderator doesn't understand. However, you can talk in a different language with a staff member.*\n\n⠀"
+                },
+                {
+                "name": "⠀  `V` **- __Do not lie/deceive the staff members.__**",
+                "value": "⠀\n*Trying to make us falsely punish an innocent member or falsely accusing someone for something he didn't do will lead to a warn.*\n\n⠀"
+                },
+                {
+                "name": "⠀  `VI` **- __Do not type in the wrong channels.__**",
+                "value": "⠀\n*Please use the right channels especially bot commands as it causes chat floods.*\n\n⠀"
+                },
+                {
+                "name": "⠀  `VII` **- __Do not mass ping members.__**",
+                "value": "⠀\n*We will remove your message if it contains more than 6+ pings. However, if you are purposely spamming it then that will be considered as raiding and you will be banned.*\n\n⠀"
+                },
+                {
+                "name": "⠀  `VIII` **- __Do not use zalgos or any kind of symbols as your username.__**",
+                "value": "⠀\n*This is because it'll be hard for anyone to ping you including the mods. We will ask you to change your username and if you do not comply, we will warn you. You are allowed to put zalgos and symbols if your username contains at least a few alphanumeric letters.*\n\n⠀"
+                },
+                {
+                "name": "⠀  `IX`**- __Do not impersonate other people.__**",
+                "value": "⠀\n*This is because it can cause confusion and even false punishments if you are breaking a rule while impersonating someone. We will warn you if you do not comply after being asked to change your identity.*\n\n⠀"
+                },
+                {
+                "name": "⠀  `X` **- __Do not say the n word to use it in a discriminatory way.__**",
+                "value": "⠀\n*Do not use the n word with the hard r. However, you are allowed to use the other variant depending on the context if it’s used in a racial/discriminatory way to target a person as a genuine insult.*\n\n⠀",
+                "inline": true
+                }
+            ]
+        }
+    ]
+}

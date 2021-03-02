@@ -3,7 +3,7 @@
  
  ---
 
-## **How to send webhooks**
+## **Instructions**
 
 > 1. To choose which channel you want to send your webhook, make sure to go to your rule channel where you want to send the webhook.
 > 

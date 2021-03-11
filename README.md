@@ -1,4 +1,4 @@
-# **Discord-webhooks**
+# **Guideline-webhooks**
  Some simple json scripts to display a discord server's guidelines. It's not anything special lol, feel free to use for your own server if you want.
  
  ---

@@ -8,7 +8,7 @@
             "fields": [
                 {
                     "name": "⠀  `I` **- __You may not send child porn in any way.__**",
-                    "value": "⠀\n*This includes sharing content or links which depict minors in a pornographic, sexually suggestive, or in a violent manner, and includes illustrated or digitally altered pornography that depicts minors (such as lolicon, shotacon, or cub).*\n\n⠀"
+                    "value": "⠀\n*This includes sharing content or links which depict minors in a pornographic, sexually suggestive, or in a violent manner, and includes illustrated or digitally altered pornography that depicts minors.*\n\n⠀"
                 },
                 {
                     "name": "⠀  `II` **- __Do not share content that glorifies or promotes suicide or self-harm.__**",
@@ -19,16 +19,16 @@
                     "value": "⠀\n*This includes trojan horses, worms, time bombs, cancelbots, corrupted files or data, or any other similar software or programs or engage in any other activity that may damage the operation of the Service or other users' computers.*\n\n⠀"
                 },
                 {
-                    "name": "⠀  `IV` **- __Do not be a nuisance or cause any distress whatsoever.__**",
+                    "name": "⠀  `IV` **- __Do not cause any distress or be a nuisance whatsoever.__**",
                     "value": "⠀\n*This includes defaming, libeling, ridiculing, mocking, stalking, threatening, intimidating or abusing anyone if you are causing an inconvenience to our members and harming the community.*\n\n⠀"
                 },
                 {
                     "name": "⠀  `V` **- __Do not participate or organize in coordinated raids aimed at a server.__**",
-                "value": "⠀\n*It is against Discord's ToS to raid servers. All members participated will be banned immediately if the moderators have evidence of members participating in raids whether it's in our server or a different server.*\n\n⠀"
+                    "value": "⠀\n*It is against Discord's ToS to raid servers. All members participated will be banned immediately if the moderators have evidence of members participating in raids whether it's in our server or a different server.*\n\n⠀"
                 },
                 {
                     "name": "⠀  `VI` **- __Do not make threats of violence or threaten to harm others.__**",
-                    "value": "⠀\n*This includes indirect threats, as well as sharing or threatening to share someone’s private personal information (also known as doxxing).*\n\n⠀"
+                    "value": "⠀\n*This includes indirect threats, as well as sharing or threatening to share someone’s private personal information also known as doxxing.*\n\n⠀"
                 },
                 {
                     "name": "⠀  `VII` **- __You may not share images of sadistic gore or animal cruelty.__**",
@@ -37,6 +37,14 @@
                 {
                     "name": "⠀  `VIII` **- __You may not Invite alt accounts you own.__**",
                     "value": "⠀\n*We will ban both the main and alt account(s) if we find out you are joining with an alt without our knowledge or permission.*\n\n⠀"
+                },
+                {
+                    "name": "⠀  `IX` **- __Do not say racial slurs or any derogatory terms.__**",
+                    "value": "⠀\n*Sending or posting messages or images that include racial slurs will lead to a ban whether it's half censored or not.*\n\n⠀"
+                },
+                {
+                    "name": "⠀  `X` **- __You may not try or attempt to hack anybody unethically.__**",
+                    "value": "⠀\n*If we have a substantial amount of evidence you are trying or premeditating to commit computer hacking especially on a member of this server, we will ban you without a question.*\n\n⠀"
                 }
             ]
         },

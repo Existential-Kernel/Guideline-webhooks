@@ -24,15 +24,15 @@
                 },
                 {
                     "name": "⠀  `V` **- __Do not lie/deceive the staff members.__**",
-                    "value": "⠀\n*Trying to make us falsely punish an innocent member or falsely accusing someone for something he didn't do will lead to a warn.*\n\n⠀"
+                    "value": "⠀\n*Trying to make us falsely punish an innocent member or falsely accusing someone for something he or she didn't do will lead to a warn.*\n\n⠀"
                 },
                 {
                     "name": "⠀  `VI` **- __Do not type in the wrong channels.__**",
-                    "value": "⠀\n*Please use the right channels especially bot commands as it causes chat floods.*\n\n⠀"
+                    "value": "⠀\n*Use the right channels especially bot commands as it causes chat floods.*\n\n⠀"
                 },
                 {
                     "name": "⠀  `VII` **- __Do not mass ping members.__**",
-                    "value": "⠀\n*We will remove your message if it contains more than 6+ pings. However, if you are purposely spamming it then that will be considered as raiding and you will be banned.*\n\n⠀"
+                    "value": "⠀\n*We will remove your message if it contains more than 6+ pings. However, if you are purposely spamming that same message multiple times, then that will be considered as raiding and you will be banned.*\n\n⠀"
                 },
                 {
                     "name": "⠀  `VIII` **- __Do not use zalgos or any kind of symbols as your username.__**",
@@ -41,11 +41,6 @@
                 {
                     "name": "⠀  `IX`**- __Do not impersonate other people.__**",
                     "value": "⠀\n*This is because it can cause confusion and even false punishments if you are breaking a rule while impersonating someone. We will warn you if you do not comply after being asked to change your identity.*\n\n⠀"
-                },
-                {
-                    "name": "⠀  `X` **- __Do not say the n word to use it in a discriminatory way.__**",
-                    "value": "⠀\n*Do not use the n word with the hard r. However, you are allowed to use the other variant depending on the context if it’s used in a racial/discriminatory way to target a person as a genuine insult.*\n\n⠀",
-                    "inline": true
                 }
             ]
         }
